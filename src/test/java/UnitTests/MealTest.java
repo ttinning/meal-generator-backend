@@ -1,6 +1,8 @@
 package UnitTests;
 
-
+import com.codeclan.example.mealservice.models.CuisineType;
+import com.codeclan.example.mealservice.models.Meal;
+import com.codeclan.example.mealservice.models.SubCuisineType;
 import org.junit.Before;
 import org.junit.Test;
 import static org.junit.Assert.assertEquals;
