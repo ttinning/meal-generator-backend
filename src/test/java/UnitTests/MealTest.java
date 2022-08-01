@@ -1,2 +1,4 @@
-package UnitTests;public class MealTests {
+package UnitTests;
+
+public class MealTest {
 }
