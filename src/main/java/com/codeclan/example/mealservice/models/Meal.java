@@ -27,6 +27,8 @@ public class Meal {
         this.subCuisineType = subCuisineType;
     }
 
+    public Meal(){}
+
     public long getId() {
         return id;
     }

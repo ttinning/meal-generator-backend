@@ -11,5 +11,6 @@ public enum CuisineType {
     JAPANESE,
     BRITISH,
     CHINESE,
+    AMERICAN,
     GREEK;
 }

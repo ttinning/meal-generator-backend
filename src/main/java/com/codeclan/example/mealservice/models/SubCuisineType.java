@@ -11,7 +11,9 @@ public enum SubCuisineType {
     GYROS,
     STIRFRY,
     TAPAS,
-    RAMAN,
+    RAMEN,
     SCOTTISH,
+    BURGER,
+    SUSHI,
     ENGLISH;
 }
